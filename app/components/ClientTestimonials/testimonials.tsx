@@ -9,7 +9,7 @@ export default function Testimonials() {
             <div className="bg-white p-6 rounded-lg shadow-md">
               <p className="text-gray-600 mb-4">BrandBuzz transformed my business!</p>
               <div className="flex justify-center items-center space-x-2">
-                <Image src='https://i.pinimg.com/236x/3c/93/0a/3c930a5b0b7a35c0415d896aaf4047ed.jpg' alt="Client 1" className="w-12 h-12 rounded-full" />
+                <Image src='https://i.pinimg.com/236x/3c/93/0a/3c930a5b0b7a35c0415d896aaf4047ed.jpg' alt="Client 1" height={28}  width={48} className="w-12 h-12 rounded-full" />
                 <p>Jessica Brown</p>
                 <span>★★★★★</span>
               </div>
@@ -18,7 +18,7 @@ export default function Testimonials() {
             <div className="bg-white p-6 rounded-lg shadow-md">
               <p className="text-gray-600 mb-4">Highly recommend their services.</p>
               <div className="flex justify-center items-center space-x-2">
-                <Image src='https://i.pinimg.com/236x/49/af/14/49af147a467ace4768394811d8ad1649.jpg' alt="Client 2" className="w-12 h-12 rounded-full" />
+                <Image src='https://i.pinimg.com/236x/49/af/14/49af147a467ace4768394811d8ad1649.jpg' alt="Client 2" height={28}  width={48} className="w-12 h-12 rounded-full" />
                 <p>Hadley John</p>
                 <span>★★★★★</span>
               </div>
@@ -27,7 +27,7 @@ export default function Testimonials() {
             <div className="bg-white p-6 rounded-lg shadow-md">
               <p className="text-gray-600 mb-4">A great team to work with.</p>
               <div className="flex justify-center items-center space-x-2">
-                <Image src='https://i.pinimg.com/236x/e7/27/b3/e727b38bc4a2340d4b772edd0864e5c1.jpg' alt="Client 3" className="w-12 h-12 rounded-full" />
+                <Image src='https://i.pinimg.com/236x/e7/27/b3/e727b38bc4a2340d4b772edd0864e5c1.jpg' alt="Client 3" height={28}  width={48} className="w-12 h-12 rounded-full" />
                 <p>Tim Spark</p>
                 <span>★★★★★</span>
               </div>

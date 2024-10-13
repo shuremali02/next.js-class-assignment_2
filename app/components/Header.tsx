@@ -122,7 +122,7 @@ export default function Navbar() {
 
       {/* Mobile navigation menu when isOpen is true, only for small screens */}
       {isOpen && (
-        <nav className="absolute top-16 right-0 w-full bg-black text-white p-6 md:hidden text-center">
+        <nav className="absolute top-16 right-0 w-full bg-orange-50 text-white p-6 md:hidden text-center">
           <ul className="flex flex-col gap-6">
             <Link href={"/"} className="transform hover:scale-105" onClick={() => setIsOpen(false)}>
               Home
