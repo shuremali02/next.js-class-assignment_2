@@ -54,7 +54,7 @@ export default function HeroSec() {
           for <br /> your business
         </h1>   
         <p className="text-md md:text-xl text-gray-600">
-          Discover the most breathtaking locations from around the world, handpicked just for you. Whether you're seeking adventure, relaxation, or cultural immersion, we make it easy to find and plan your next dream vacation. Let us be your guide to unforgettable experiences!
+          Discover the most breathtaking locations from around the world, handpicked just for you. Whether you&#39;re seeking adventure, relaxation, or cultural immersion, we make it easy to find and plan your next dream vacation. Let us be your guide to unforgettable experiences!
         </p>
         <div className="space-y-4 flex flex-col">
           <Link href={"#"}>

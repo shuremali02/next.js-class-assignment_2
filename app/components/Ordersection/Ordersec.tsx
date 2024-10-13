@@ -4,7 +4,7 @@ export default function Steps() {
         <div className="max-w-7xl mx-auto px-4 text-center">
           <h2 className="text-2xl md:text-3xl font-bold mb-8">Simple Solutions!</h2>
           <p className="text-lg text-gray-600 mb-8">
-            We understand that no two businesses are alike. That's why we take the time to understand.
+            We understand that no two businesses are alike. That&#39;s why we take the time to understand.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div className="text-left">
@@ -13,7 +13,7 @@ export default function Steps() {
             </div>
             <div className="text-left">
               <h3 className="font-semibold text-xl mb-2">2. Consult</h3>
-              <p>We'll help you plan your strategy.</p>
+              <p>We&#39;ll help you plan your strategy.</p>
             </div>
             <div className="text-left">
               <h3 className="font-semibold text-xl mb-2">3. Place Order</h3>
