@@ -2,7 +2,9 @@ export default function Steps() {
     return (
       <section className="bg-white py-12">
         <div className="max-w-7xl mx-auto px-4 text-center">
-          <h2 className="text-2xl md:text-3xl font-bold mb-8">Simple Solutions!</h2>
+          <h2 className="text-2xl md:text-3xl font-bold mb-8">Simple <span className="text-orange-600">
+            Solutions
+          </span> </h2>
           <p className="text-lg text-gray-600 mb-8">
             We understand that no two businesses are alike. That&#39;s why we take the time to understand.
           </p>

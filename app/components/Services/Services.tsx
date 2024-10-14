@@ -4,7 +4,9 @@ export default function Services() {
       <section className="bg-orange-50 py-12">
         <div className="max-w-7xl mx-auto px-4">
           <h2 className="text-2xl md:text-3xl font-bold text-center mb-8">
-            We Provide The Best Services
+            We Provide The Best <span className="text-orange-600">
+            Services
+          </span> 
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
             {/* Service 1 */}
