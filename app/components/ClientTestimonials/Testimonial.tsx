@@ -1,5 +1,5 @@
 import Image from "next/image";
-export default function Testimonials() {
+export default function Testimonial() {
     return (
       <section className="bg-orange-50 py-12">
         <div className="max-w-7xl mx-auto px-4 text-center">
