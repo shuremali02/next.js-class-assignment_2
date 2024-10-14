@@ -22,7 +22,7 @@ export default function HeroSec() {
         </p>
         <div className="space-y-4 flex flex-col">
           <Link href={"#"}>
-            <Button className="py-2 px-4">Get Started</Button>
+            <Button className="py-2 px-4 bg-orange-600 text-black">Get Started</Button>
           </Link>
           <Link href={"#"}>
             <Button variant={"outline"} className="py-2 px-4 gap-x-1">
